@@ -3,7 +3,7 @@
 
 class Database {
     private $host = "sql10.freesqldatabase.com";
-    private $db_name = "kowsalya_cake_shop";
+    private $db_name = "sql10811226";
     private $username = "sql10811226";
     private $password = "vMmDHTt6Ve";
     public $conn;
@@ -26,3 +26,4 @@ class Database {
 }
 
 ?>
+
