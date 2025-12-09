@@ -2,10 +2,10 @@
 // config/database.php
 
 class Database {
-    private $host = "sql10.freesqldatabase.com";
-    private $db_name = "sql10811226";
-    private $username = "sql10811226";
-    private $password = "vMmDHTt6Ve";
+    private $host = "gateway01.ap-southeast-1.prod.aws.tidbcloud.com";
+    private $db_name = "test";
+    private $username = "wrvr86JNUurTeWf.root";
+    private $password = "Xwfgvu1YVDy24039";
     public $conn;
 
     public function getConnection() {
@@ -26,4 +26,5 @@ class Database {
 }
 
 ?>
+
 
